@@ -1,0 +1,164 @@
+/* color hunt scheme #65c4e3 sky blue, #c85453 indian red, 
+#95c3b5 dark sea green, #254b64 dark slate gray, #e2ebe9 light steel blue */
+
+/* for checkout form */
+
+.container {
+    max-width: 960px;
+  }
+  
+  .lh-condensed { line-height: 1.25; }
+  
+
+/* for checkout form */
+
+
+body{
+    /* should be m. regular = 400 */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-align: center}
+
+
+    h1, h2, h3, h4, h5, h6{
+        /* should be m. bold=700 */
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;   
+    }
+    
+    
+    
+    /* p{
+        color: #8f8f8f;
+    } */
+    
+    /* navbar */
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.nav-link{
+    font-size: 1.5rem;
+
+}
+
+
+    /* heading */
+.row{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+    .big-heading{
+        /* should be m. black=900 */
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+        font-size: 3.5rem;
+        line-height: 1.5; 
+        /* color: gray;   */
+    }
+
+    .section-heading{
+        font-size: 3rem;
+        line-height: 1.5;
+    }
+    
+
+
+
+
+.icon{
+    font-size: 24rem;   
+    padding-top: 6%;
+    padding-left: 5%;
+    
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;
+   
+}
+
+
+
+.colored-section{
+    background-color: #0ABAB5;
+    /* background-color: #65c4e3; */
+    /* background-color: #ff0000; */
+    color:white;
+
+}
+
+.white-section{
+    background-color: white;
+    margin: 3% 7%;
+}
+
+
+
+
+/* about section */
+
+
+
+
+/* testimonial Section */
+
+/* #testimonials{   
+    background-color: #ef8172;
+} */
+
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+
+
+.test-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+
+
+
+/* testing section */
+
+#testing{
+    padding: 3% 7%;
+}
+
+
+
+.btn-outline-cust{
+    color: #0ABAB5;
+    border-color: #0ABAB5;
+}
+
+
+.btn-outline-cust:hover{
+    color: white;
+    background-color: #0ABAB5;
+    border-color: #0ABAB5;
+}
+
+
+/* pricing section */
+
+#pricing{
+    padding: 100px;
+}
+
+/* footer */
+.social-icon {
+    margin: 20px 10px;
+  }
+
+
+
+
